@@ -4,7 +4,7 @@ API REST Catalogue produits "Fruits & Légumes" avec gestion d'un panier
 
 Etapes d'installation du projet :  
 
-1-	Télécharger le source du code depuis Github avec le lien ci-dessous :
+1-	Télécharger le source du code depuis Github avec le lien :
 https://github.com/JavaTestNexio/ApiApp.git
 
 2-	Importer le projet dans votre IDE en tant que Projet Maven
